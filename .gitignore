@@ -8,3 +8,4 @@ node_modules
 *.zip
 *.hdf5
 *.h5
+*.pkl
